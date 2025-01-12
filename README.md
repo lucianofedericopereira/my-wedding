@@ -4,7 +4,9 @@
   <img src="assets/readme.gif" alt="Valeria y Luciano">
 </p>
 
+<p align="center">
 🔗 https://lucianofedericopereira.github.io/my-wedding
+</p>
 
 This repository showcases the wedding e-card I designed and developed entirely in HTML, CSS, and vanilla JavaScript. 
 
