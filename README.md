@@ -1,6 +1,8 @@
 #  👰‍♀️🤵‍♂️ My Wedding e-card 
 
-![petals falling over couple](assets/readme.gif)
+<p align="center">
+  <img src="assets/readme.gif" alt="Valeria y Luciano">
+</p>
 
 🔗 https://lucianofedericopereira.github.io/my-wedding
 
