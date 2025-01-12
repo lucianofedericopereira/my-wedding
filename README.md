@@ -2,6 +2,8 @@
 
 ![petals falling over couple](assets/readme.gif)
 
-🔗 https://lucianofullstack.github.io/wedding
+🔗 https://lucianofedericopereira.github.io/my-wedding
+
+
 
 Inspired by: Top flowers from vinitshahdeo
