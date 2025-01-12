@@ -4,6 +4,19 @@
 
 🔗 https://lucianofedericopereira.github.io/my-wedding
 
+This repository showcases the wedding e-card I designed and developed entirely in HTML, CSS, and vanilla JavaScript. 
+
+### Overview
+
+My goal was to create a unique and personal digital invitation that reflects the joy of our special day while ensuring seamless performance and a responsive design. 
+
+### Key Features
+
+- **Responsive Design**: Ensures beautiful rendering across various devices and screen sizes.
+
+- **Custom CSS Animations**: Achieves a delicate falling petals effect through pure CSS, enhancing the visual experience without relying on any external libraries.
+
+- **Vanilla JavaScript**: Implements all interactivity using modern, efficient JavaScript techniques, avoiding jQuery to maintain a lightweight footprint.
 
 
-Inspired by: Top flowers from vinitshahdeo
+Credits: Inspired by the concept of falling petals from the repository vinitshahdeo.
