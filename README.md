@@ -23,4 +23,4 @@ My goal was to create a unique and personal digital invitation that reflects the
 - **Vanilla JavaScript**: Implements all interactivity using modern, efficient JavaScript techniques, avoiding jQuery to maintain a lightweight footprint.
 
 
-Credits: Inspired by the concept of falling petals from the repository vinitshahdeo.
+Credits: Top Flowers and concept inspiration from vinitshahdeo repo.
